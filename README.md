@@ -2,6 +2,12 @@
 
 A lightweight Android app that intercepts Twitter and X.com links and opens them in a WebView, eliminating the need to install the official Twitter app.
 
+## NOTE
+This is all AI generated and needs be to audited and simplified
+
+## NOTE 2
+Helpful commands are in [COMMANDS.md](COMMANDS.md)
+
 ## Features
 
 - Opens all twitter.com and x.com links
